@@ -3,7 +3,7 @@ import style from './app.css';
 
 const App = () => {
   return (
-    <h1 className={style.title}>Hello</h1>
+    <h1 className={style.title}>Hello World</h1>
   );
 };
 
